@@ -1,0 +1,27 @@
+{
+    "blogs":[{
+        "title":"Nature Reveals..",
+        "author": "Kamalka Fernando", 
+        "body": "Is fdfdf erejk sdsf refer.sfsafa.afsdf ffsdgsg dsg g sgfg dg rg  gf g hf h",
+        "id":1
+    },
+    {
+        "title": "Beauty Fades", 
+        "author": "Upali Fernando", 
+        "body": "The way is fdfdf erejk sdsf rere",
+        "id":2
+    },
+    {
+        "title": "Does Not Matter", 
+        "author": "Upali Fernando", 
+        "body": "No way home s fdfdf erejk sdsf rere",
+        "id":3
+    },
+    {
+        "title": "Love Your Pets", 
+        "author": "Asoka Samarawickrama", 
+        "body": "Love always matters even with pets fdfdf erejk sdsf rere",
+        "id":4
+    }
+]
+}
