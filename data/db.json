@@ -1,38 +1,16 @@
 {
-    "blogs":[{
-        "title":"Nature Reveals..",
-        "author": "Kamalka Fernando", 
-        "body": "Nature is our life-support system. From the fresh air we breathe to the clean water we drink, nature provides the essentials 
-        we all rely on for our survival and well-being. And it also holds the key to our prosperity, with millions of livelihoods and much of our economic activity 
-        also depending on the natural world. These immense benefits to humanity, estimated to be worth around US$125 trillion a year, are only possible if 
-        we maintain a rich diversity of wildlife.We know that we are losing nature faster than it can restore itself. And without urgent action, significant harm to people and planet is inevitable: 
-        inadequate food and water for our growing global population, significant harm to our economies, and the mass extinction of an estimated one million species.The world is no stranger to these issues, 
-        with governments already pledging action to tackle nature loss through the UN’s global agreement on nature, the Convention on Biological Diversity. But the convention’s targets for 2020, set almost a decade ago, will in all cases not be met.Meanwhile, 
-        the warning signs continue to mount. Populations of mammals, birds, reptiles, amphibians and fish have declined on average by 60 per cent in the past 40 years – and 75 per cent of land has been significantly altered by human activities.
-        The New Deal seeks to protect and restore nature for the benefit of people and planet – proposing no more loss of natural spaces or extinctions as well as halving the negative ecological impacts of production and consumption. 
-        This will enable us to provide enough food and water for a global population that will grow to nine billion people in coming decades, support efforts to create a stable climate, 
-        and prevent a mass extinction of wildlife.The first step will be to work with government leaders to ensure their support for a New Deal. This must be followed by strengthened commitments and 
-        delivery mechanisms for the UN Biodiversity Convention alongside a strengthened private-sector commitment to action – and then enormous ongoing work in the coming decade. Alongside this, we must redouble 
-        efforts to deliver current UN agreements on tackling climate change and encouraging sustainable development – the fate of the climate, human development and nature are linked together.",
-        "id":1
+  "blogs": [
+    {
+      "title": "Beauty Fades",
+      "author": "Upali Fernando",
+      "body": "The way is fdfdf erejk sdsf rere",
+      "id": 2
     },
     {
-        "title": "Beauty Fades", 
-        "author": "Upali Fernando", 
-        "body": "The way is fdfdf erejk sdsf rere",
-        "id":2
-    },
-    {
-        "title": "Does Not Matter", 
-        "author": "Upali Fernando", 
-        "body": "No way home s fdfdf erejk sdsf rere",
-        "id":3
-    },
-    {
-        "title": "Love Your Pets", 
-        "author": "Asoka Samarawickrama", 
-        "body": "Love always matters even with pets fdfdf erejk sdsf rere",
-        "id":4
+      "title": "Love Your Pets",
+      "author": "Asoka Samarawickrama",
+      "body": "Love always matters even with pets fdfdf erejk sdsf rere",
+      "id": 4
     }
-]
+  ]
 }
